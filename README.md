@@ -13,7 +13,7 @@ Building scalable web applications with modern JavaScript technologies.
   <a href="mailto:dnyaneshwarkolhe903@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://YOUR_PORTFOLIO](http://dnyaneshwarkolhe.onrender.com)">
+  <a href="[http://dnyaneshwarkolhe.onrender.com]">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 </p>
