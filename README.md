@@ -7,7 +7,7 @@
 Building scalable web applications with modern JavaScript technologies.
 
 <p>
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/dnyaneshwar-kolhe/)">
+  <a href="https://www.linkedin.com/in/dnyaneshwar-kolhe">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dnyaneshwarkolhe903@gmail.com">
